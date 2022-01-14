@@ -1,0 +1,120 @@
+Uri: https://isadoradigitalagency.com/contact
+File Name: C:\Users\mehed\OneDrive\Desktop\Order\test\isadoradigitalagency.com\contact.html
+Content Type: text/html
+
+Uri: https://isadoradigitalagency.com/favicon.ico
+File Name: C:\Users\mehed\OneDrive\Desktop\Order\test\isadoradigitalagency.com\favicon.ico
+Content Type: image/x-icon
+
+Uri: http://gmpg.org/xfn/11
+File Name: C:\Users\mehed\OneDrive\Desktop\Order\test\isadoradigitalagency.com\xfn\11.html
+Content Type: text/html
+
+Uri: https://isadoradigitalagency.com/wp-content/cache/autoptimize/css/autoptimize_c91d0d0be6717a2da6abf685532eecfc.css
+File Name: C:\Users\mehed\OneDrive\Desktop\Order\test\isadoradigitalagency.com\wp-content\cache\autoptimize\css\autoptimize_c91d0d0be6717a2da6abf685532eecfc.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/
+File Name: C:\Users\mehed\OneDrive\Desktop\Order\test\isadoradigitalagency.com\index-1.htm
+Content Type: text/html
+
+Uri: https://cdn.jsdelivr.net/jquery.mcustomscrollbar/3.1.5/jquery.mCustomScrollbar.min.css
+File Name: C:\Users\mehed\OneDrive\Desktop\Order\test\isadoradigitalagency.com\jquery.mcustomscrollbar\3.1.5\jquery.mCustomScrollbar.min.css
+Content Type: text/css
+
+Uri: https://isadoradigitalagency.com/wp-json/
+File Name: C:\Users\mehed\OneDrive\Desktop\Order\test\isadoradigitalagency.com\wp-json\index.htm.json
+Content Type: application/json
+
+Uri: https://isadoradigitalagency.com/wp-json/wp/v2/pages/5
+File Name: C:\Users\mehed\OneDrive\Desktop\Order\test\isadoradigitalagency.com\wp-json\wp\v2\pages\5.json
+Content Type: application/json
+
+Uri: https://isadoradigitalagency.com/xmlrpc.php?rsd
+File Name: C:\Users\mehed\OneDrive\Desktop\Order\test\isadoradigitalagency.com\xmlrpc.php.xml
+Content Type: text/xml
+
+Uri: https://isadoradigitalagency.com/wp-includes/wlwmanifest.xml
+File Name: C:\Users\mehed\OneDrive\Desktop\Order\test\isadoradigitalagency.com\wp-includes\wlwmanifest.xml
+Content Type: text/xml
+
+Uri: https://isadoradigitalagency.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fisadoradigitalagency.com%2Fcontact
+File Name: C:\Users\mehed\OneDrive\Desktop\Order\test\isadoradigitalagency.com\wp-json\oembed\1.0\embed.json
+Content Type: application/json
+
+Uri: https://isadoradigitalagency.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fisadoradigitalagency.com%2Fcontact&format=xml
+File Name: C:\Users\mehed\OneDrive\Desktop\Order\test\isadoradigitalagency.com\wp-json\oembed\1.0\embed.xml
+Content Type: text/xml
+
+Uri: https://www.youtube.com/user/IsadoraDesign
+File Name: C:\Users\mehed\OneDrive\Desktop\Order\test\isadoradigitalagency.com\user\IsadoraDesign.html
+Content Type: text/html
+
+Uri: https://www.facebook.com/IsadoraDigitalAgency/
+File Name: C:\Users\mehed\OneDrive\Desktop\Order\test\isadoradigitalagency.com\IsadoraDigitalAgency\index.htm
+Content Type: text/html
+
+Uri: https://twitter.com/IsadoraAgency
+File Name: C:\Users\mehed\OneDrive\Desktop\Order\test\isadoradigitalagency.com\IsadoraAgency.html
+Content Type: text/html
+
+Uri: https://userway.org/
+File Name: C:\Users\mehed\OneDrive\Desktop\Order\test\isadoradigitalagency.com\index-3.htm
+Content Type: text/html
+
+Uri: https://isadoradigitalagency.com/wp-includes/js/jquery/jquery.min.js
+File Name: C:\Users\mehed\OneDrive\Desktop\Order\test\isadoradigitalagency.com\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=AW-997147849
+File Name: C:\Users\mehed\OneDrive\Desktop\Order\test\isadoradigitalagency.com\gtag\js.js
+Content Type: application/javascript
+
+Uri: https://www.googletagmanager.com/ns.html?id=GTM-N9KBFQX
+File Name: C:\Users\mehed\OneDrive\Desktop\Order\test\isadoradigitalagency.com\ns.html
+Content Type: text/html
+
+Uri: https://isadoradigitalagency.com/wp-content/themes/id16-theme/images/banner-mask.png
+File Name: C:\Users\mehed\OneDrive\Desktop\Order\test\isadoradigitalagency.com\wp-content\themes\id16-theme\images\banner-mask.png
+Content Type: image/png
+
+Uri: https://www.google.com/recaptcha/api.js?onload=cf7srLoadCallback&render=explicit
+File Name: C:\Users\mehed\OneDrive\Desktop\Order\test\isadoradigitalagency.com\recaptcha\api.js
+Content Type: text/javascript
+
+Uri: https://www.googletagmanager.com/ns.html?id=GTM-MDR5Z7B
+File Name: C:\Users\mehed\OneDrive\Desktop\Order\test\isadoradigitalagency.com\ns-1.html
+Content Type: text/html
+
+Uri: https://cdn.jsdelivr.net/g/gsap@1.18.5(TweenMax.min.js+plugins/CSSPlugin.min.js),jquery.touchswipe@1.6.18,scrollmagic@2.0.5,jquery.slick@1.6.0
+File Name: C:\Users\mehed\OneDrive\Desktop\Order\test\isadoradigitalagency.com\g\gsap@1.18.5(TweenMax.min.js plugins\CSSPlugin.min.js),jquery.touchswipe@1.6.18,scrollmagic@2.0.5,jquery.slick@1.6.0.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/Chart.js/1.0.2/Chart.min.js
+File Name: C:\Users\mehed\OneDrive\Desktop\Order\test\isadoradigitalagency.com\ajax\libs\Chart.js\1.0.2\Chart.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/jquery.mcustomscrollbar/3.1.5/jquery.mCustomScrollbar.concat.min.js
+File Name: C:\Users\mehed\OneDrive\Desktop\Order\test\isadoradigitalagency.com\jquery.mcustomscrollbar\3.1.5\jquery.mCustomScrollbar.concat.min.js
+Content Type: application/javascript
+
+Uri: https://isadoradigitalagency.com/wp-content/cache/autoptimize/js/autoptimize_6af735a080bf7e146279d6d4d503f096.js
+File Name: C:\Users\mehed\OneDrive\Desktop\Order\test\isadoradigitalagency.com\wp-content\cache\autoptimize\js\autoptimize_6af735a080bf7e146279d6d4d503f096.js
+Content Type: application/javascript
+
+Uri: https://www.jsdelivr.com/
+File Name: C:\Users\mehed\OneDrive\Desktop\Order\test\isadoradigitalagency.com\index.htm
+Content Type: text/html
+
+Uri: https://wordpress.org/
+File Name: C:\Users\mehed\OneDrive\Desktop\Order\test\isadoradigitalagency.com\index-2.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/accounts/login/
+File Name: C:\Users\mehed\OneDrive\Desktop\Order\test\isadoradigitalagency.com\accounts\login\index.htm
+Content Type: text/html
+
+Uri: https://p.adsymptotic.com/d/px/?_pid=16218&_psign=0aa5badf92527f7732e22463d6fa4dbc&coopa=0&gdpr=0&gdpr_consent=&_puuid=f4a5f32b-9edd-4dad-8a8f-9706a842085d&_expected_cookie=b3629b211660a033f6f77f27194a133c
+File Name: C:\Users\mehed\OneDrive\Desktop\Order\test\isadoradigitalagency.com\d\px\index.htm.gif
+Content Type: image/gif
+
